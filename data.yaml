@@ -1,0 +1,7 @@
+names:
+- vehicle
+nc: 1
+path: /kaggle/input/datasets/nguynttthanh/ua-detrac-yolo
+test: test/images
+train: train/images
+val: val/images

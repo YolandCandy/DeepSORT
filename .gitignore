@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.ultralytics_config
+.vscode/
+*.mp4
+runs/
+output_trackeval.txt
+ByteTrack

@@ -1,0 +1,9 @@
+ultralytics>=8.1.0
+torch
+torchvision
+opencv-python
+deep-sort-realtime
+numpy
+scipy
+gdown
+pycocotools-windows
