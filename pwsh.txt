@@ -1,0 +1,1 @@
+python scripts/run_mot_challenge.py --BENCHMARK UA-DETRAC --TRACKERS_TO_EVAL sortv2 --SPLIT_TO_EVAL test --METRICS HOTA CLEAR Identity --USE_PARALLEL True --NUM_PARALLEL_CORES 8
